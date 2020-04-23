@@ -1,0 +1,199 @@
+,Countries,Total,Code,Text
+0,Egypt,29600,EGY,Egypt: 29600
+1,Equatorial Guinea,135,GNQ,Equatorial Guinea: 135
+2,Ethiopia,19075,ETH,Ethiopia: 19075
+3,"Afghanistan, Republic of",251640,AFG,"Afghanistan, Republic of: 251640"
+4,Albania,48705,ALB,Albania: 48705
+5,Algeria,19845,DZA,Algeria: 19845
+6,Andorra,55,AND,Andorra: 55
+7,Angola,5350,AGO,Angola: 5350
+8,Antigua and Barbuda,25,ATG,Antigua and Barbuda: 25
+9,Argentina,5305,ARG,Argentina: 5305
+10,Armenia,26830,ARM,Armenia: 26830
+11,Azerbaijan,25325,AZE,Azerbaijan: 25325
+12,Australia,13525,AUS,Australia: 13525
+13,Bahamas,55,BHS,Bahamas: 55
+14,Bahrain,480,BHR,Bahrain: 480
+15,Bangladesh,13535,BGD,Bangladesh: 13535
+16,Barbados,155,BRB,Barbados: 155
+17,Belgium,29825,BEL,Belgium: 29825
+18,Belize,50,BLZ,Belize: 50
+19,Benin,2930,BEN,Benin: 2930
+20,Bhutan,150,BTN,Bhutan: 150
+21,"Bolivia, Plurinational State",1885,BOL,"Bolivia, Plurinational State: 1885"
+22,Bosnia and Herzegovina,180950,BIH,Bosnia and Herzegovina: 180950
+23,Botswana,140,BWA,Botswana: 140
+24,Brazil,42580,BRA,Brazil: 42580
+26,Brunei Darussalam,30,BRN,Brunei Darussalam: 30
+27,Bulgaria,310415,BGR,Bulgaria: 310415
+28,Burkina Faso,2115,BFA,Burkina Faso: 2115
+29,Burundi,400,BDI,Burundi: 400
+30,Cabo Verde,315,CPV,Cabo Verde: 315
+31,Chile,7950,CHL,Chile: 7950
+32,China,136460,CHN,China: 136460
+33,Costa Rica,1360,CRI,Costa Rica: 1360
+34,Cote d'Ivoire,6300,CIV,Cote d'Ivoire: 6300
+35,Denmark,24910,DNK,Denmark: 24910
+36,Dominica,200,DMA,Dominica: 200
+37,Dominican Republic,6440,DOM,Dominican Republic: 6440
+38,Djibouti,135,DJI,Djibouti: 135
+39,Ecuador,5320,ECU,Ecuador: 5320
+40,El Salvador,1085,SLV,El Salvador: 1085
+41,Eritrea,66665,ERI,Eritrea: 66665
+42,Estonia,7255,EST,Estonia: 7255
+43,Fiji,415,FJI,Fiji: 415
+44,Finland,17465,FIN,Finland: 17465
+45,France,149025,FRA,France: 149025
+46,Gabon,475,GAB,Gabon: 475
+47,Gambia,16455,GMB,Gambia: 16455
+48,Georgia,24685,GEO,Georgia: 24685
+49,Ghana,33900,GHA,Ghana: 33900
+50,Grenada,70,GRD,Grenada: 70
+51,Greece,362245,GRC,Greece: 362245
+52,Guatemala,875,GTM,Guatemala: 875
+53,Guinea,14375,GIN,Guinea: 14375
+54,Guinea-Bissau,1435,GNB,Guinea-Bissau: 1435
+55,Guyana,70,GUY,Guyana: 70
+56,Haiti,625,HTI,Haiti: 625
+57,Honduras,1020,HND,Honduras: 1020
+58,Hong Kong,435,HKG,Hong Kong: 435
+59,India,108965,IND,India: 108965
+60,Indonesia,18610,IDN,Indonesia: 18610
+61,Iraq,237365,IRQ,Iraq: 237365
+62,"Iran, Islamic Republic of",102760,IRN,"Iran, Islamic Republic of: 102760"
+63,Ireland,17560,IRL,Ireland: 17560
+64,Iceland,1520,ISL,Iceland: 1520
+65,Israel,13795,ISR,Israel: 13795
+66,Italy,643065,ITA,Italy: 643065
+67,Jamaica,1385,JAM,Jamaica: 1385
+68,Japan,36600,JPN,Japan: 36600
+69,Yemen,5540,YEM,Yemen: 5540
+70,Jordan,11520,JOR,Jordan: 11520
+73,Cambodia,980,KHM,Cambodia: 980
+74,Cameroon,22320,CMR,Cameroon: 22320
+75,Canada,17505,CAN,Canada: 17505
+76,Kazakhstan,46650,KAZ,Kazakhstan: 46650
+77,Qatar,1060,QAT,Qatar: 1060
+78,Kenya,11515,KEN,Kenya: 11515
+79,Kyrgyzstan,8575,KGZ,Kyrgyzstan: 8575
+80,Kiribati,35,KIR,Kiribati: 35
+81,Colombia,16060,COL,Colombia: 16060
+82,Comoros,70,COM,Comoros: 70
+83,"Congo, The Democratic Republic of the",8975,COD,"Congo, The Democratic Republic of the: 8975"
+84,"Congo, Republic of the",1750,COG,"Congo, Republic of the: 1750"
+85,"Korea, Democratic People's Republic",950,PRK,"Korea, Democratic People's Republic: 950"
+86,"Korea, Republic of",34420,KOR,"Korea, Republic of: 34420"
+87,Kosovo,208505,XKX,Kosovo: 208505
+88,Croatia,367900,HRV,Croatia: 367900
+89,Cuba,8400,CUB,Cuba: 8400
+90,Kuwait,3310,KWT,Kuwait: 3310
+91,Lao People's Democratic Republic,805,LAO,Lao People's Democratic Republic: 805
+92,Lesotho,45,LSO,Lesotho: 45
+93,Latvia,38290,LVA,Latvia: 38290
+94,Lebanon,41375,LBN,Lebanon: 41375
+95,Liberia,1150,LBR,Liberia: 1150
+96,Libya,14805,LBY,Libya: 14805
+97,Liechtenstein,250,LIE,Liechtenstein: 250
+98,Lithuania,53155,LTU,Lithuania: 53155
+99,Luxembourg,19440,LUX,Luxembourg: 19440
+100,Macau,15,MAC,Macau: 15
+101,Madagascar,2155,MDG,Madagascar: 2155
+102,Malawi,210,MWI,Malawi: 210
+103,Malaysia,5500,MYS,Malaysia: 5500
+104,Maldives,80,MDV,Maldives: 80
+105,Mali,3140,MLI,Mali: 3140
+106,Malta,710,MLT,Malta: 710
+107,Morocco,75620,MAR,Morocco: 75620
+108,0,0,0,0: 0
+109,Mauritania,740,MRT,Mauritania: 740
+110,Mauritius,1260,MUS,Mauritius: 1260
+111,"Macedonia, the former Yugoslav Republic of",99435,MKD,"Macedonia, the former Yugoslav Republic of: 99435"
+112,Mexico,15815,MEX,Mexico: 15815
+113,0,0,0,0: 0
+114,"Moldova, Republic of",17245,MDA,"Moldova, Republic of: 17245"
+115,Monaco,15,MCO,Monaco: 15
+116,Mongolia,6030,MNG,Mongolia: 6030
+117,Montenegro (since 2006-06-03),21410,MNE,Montenegro (since 2006-06-03): 21410
+118,Mozambique,2085,MOZ,Mozambique: 2085
+119,Myanmar,1685,MMR,Myanmar: 1685
+120,Namibia,680,NAM,Namibia: 680
+121,0,0,0,0: 0
+122,Nepal,6990,NPL,Nepal: 6990
+123,New Zealand,3205,NZL,New Zealand: 3205
+124,Nicaragua,760,NIC,Nicaragua: 760
+125,Netherlands,154630,NLD,Netherlands: 154630
+126,Niger,1210,NER,Niger: 1210
+127,Nigeria,56420,NGA,Nigeria: 56420
+128,Norway,6755,NOR,Norway: 6755
+129,Austria,191305,AUT,Austria: 191305
+130,Oman,540,OMN,Oman: 540
+131,Pakistan,73000,PAK,Pakistan: 73000
+132,Palestinian Territories,3770,PSE,Palestinian Territories: 3770
+133,Palau,5,PLW,Palau: 5
+134,Panama,480,PAN,Panama: 480
+135,Papua New Guinea,60,PNG,Papua New Guinea: 60
+136,Paraguay,1450,PRY,Paraguay: 1450
+137,Peru,9810,PER,Peru: 9810
+138,Philippines,22950,PHL,Philippines: 22950
+139,Poland,866855,POL,Poland: 866855
+140,Portugal,146810,PRT,Portugal: 146810
+141,Rwanda,1145,RWA,Rwanda: 1145
+142,Romania,622780,ROU,Romania: 622780
+143,Russian Federation,254050,RUS,Russian Federation: 254050
+144,Solomon Islands,10,SLB,Solomon Islands: 10
+145,Zambia,490,ZMB,Zambia: 490
+146,Samoa,35,WSM,Samoa: 35
+147,San Marino,25,SMR,San Marino: 25
+148,Sao Tome and Principe,20,STP,Sao Tome and Principe: 20
+149,Saudi Arabia,5350,SAU,Saudi Arabia: 5350
+150,Sweden,23990,SWE,Sweden: 23990
+151,Switzerland,40765,CHE,Switzerland: 40765
+152,Senegal,4995,SEN,Senegal: 4995
+153,Serbia (without Kosovo) (since 2008-02-17),209370,SRB,Serbia (without Kosovo) (since 2008-02-17): 209370
+156,Seychelles,185,SYC,Seychelles: 185
+157,Sierra Leone,4395,SLE,Sierra Leone: 4395
+158,Zimbabwe,1865,ZWE,Zimbabwe: 1865
+159,Singapore,2220,SGP,Singapore: 2220
+160,Slovakia,57225,SVK,Slovakia: 57225
+161,Slovenia,29295,SVN,Slovenia: 29295
+162,Somalia,38675,SOM,Somalia: 38675
+164,Spain,178010,ESP,Spain: 178010
+165,Sri Lanka,25900,LKA,Sri Lanka: 25900
+166,Saint Kitts and Nevis,25,KNA,Saint Kitts and Nevis: 25
+167,Saint Lucia,115,LCA,Saint Lucia: 115
+168,Saint Vincent and the Grenadines,60,VCT,Saint Vincent and the Grenadines: 60
+169,Sudan (including South Sudan) (until 2011-07-08),1235,SDN,Sudan (including South Sudan) (until 2011-07-08): 1235
+171,South Sudan (since 2011-07-09),330,SSD,South Sudan (since 2011-07-09): 330
+172,South Africa,6090,ZAF,South Africa: 6090
+173,Suriname,45,SUR,Suriname: 45
+174,Swaziland,50,SWZ,Swaziland: 50
+175,Syrian,698950,SYR,Syrian: 698950
+176,Tajikistan,5360,TJK,Tajikistan: 5360
+177,Taiwan,7620,TWN,Taiwan: 7620
+178,Tanzania,1690,TZA,Tanzania: 1690
+179,Thailand,58820,THA,Thailand: 58820
+180,Timor-Leste,5,TLS,Timor-Leste: 5
+181,Togo,10615,TGO,Togo: 10615
+182,Tonga,40,TON,Tonga: 40
+183,Trinidad and Tobago,430,TTO,Trinidad and Tobago: 430
+184,Chad,715,TCD,Chad: 715
+185,Czechia,59975,CZE,Czechia: 59975
+187,Turkey,1483515,TUR,Turkey: 1483515
+188,Tunisia,34140,TUN,Tunisia: 34140
+189,Turkmenistan,1925,TKM,Turkmenistan: 1925
+190,Tuvalu,20,TUV,Tuvalu: 20
+191,Uganda,2205,UGA,Uganda: 2205
+192,Ukraine,138045,UKR,Ukraine: 138045
+193,Hungary,207025,HUN,Hungary: 207025
+194,Uruguay,660,URY,Uruguay: 660
+195,Uzbekistan,8655,UZB,Uzbekistan: 8655
+196,Vanuatu,10,VUT,Vanuatu: 10
+197,0,0,0,0: 0
+198,"Venezuela, Bolivarian Republic of",5610,VEN,"Venezuela, Bolivarian Republic of: 5610"
+199,United Arab Emirates,3715,ARE,United Arab Emirates: 3715
+200,United States,117730,USA,United States: 117730
+201,United Kingdom,117250,GBR,United Kingdom: 117250
+202,Viet Nam,92485,VNM,Viet Nam: 92485
+203,Belarus,22385,BLR,Belarus: 22385
+204,Central African Republic,205,CAF,Central African Republic: 205
+205,Cyprus,2590,CYP,Cyprus: 2590
