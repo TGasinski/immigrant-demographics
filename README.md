@@ -6,3 +6,6 @@ As part of my Masters program in Political Economy of European Integration, I wr
 
 # Data Source
 Data was taken from the US Office of Immigration Statistics, US Census Bureau, the Migration Policy Institute, and the Statistiches Bundesamt. 
+
+# How to use 
+To run both the Cleaning and Wrangling.ipynb and Graphs.ipynb files, download the /input folder files and first run the Cleaning and Wrangling.ipynb file. To only view the graphs, first download the /clean folder files. 
